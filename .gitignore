@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+*.log
+.vscode/
+.idea/
+*.tmp
+*.secret
+*.pem
